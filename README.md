@@ -15,9 +15,9 @@ centric, and accessible apps.
  - Third Party SDKs: Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
  - Tools: Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
  - Patterns: MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
- -# Testing: Unit and UI Testing.
- -# Methodologies: OOP, SOLID, DRY, Design Patterns
- -# Others: ARC, Threads, Race Conditions, Deadlock, Auto Layout
+ - Testing: Unit and UI Testing.
+ - # Methodologies: OOP, SOLID, DRY, Design Patterns
+ - Others: ARC, Threads, Race Conditions, Deadlock, Auto Layout
 
 ## Education 
 
