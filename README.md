@@ -8,20 +8,13 @@ focus on performance optimization using structured concurrency (GCD, Operations 
 Passionate team player who values agile development, mentorship, and continuous learning while building scalable, user-
 centric, and accessible apps.
 
+### Skills
 
-
-
-<!--
-**evliye/evliye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Swift, JavaScript, Objective-C, C.
+iOS SDKs: SwiftUI, UIKit, Combine, Network, WidgetKit, AVKit, PhotoKit, MapKit, XCTest, Core Animation, Core Bluetooth, CoreData, GCD and more.
+Third Party SDKs: Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
+Tools: Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
+Patterns: MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
+Testing: Unit and UI Testing.
+Methodologies: OOP, SOLID, DRY, Design Patterns
+Others: ARC, Threads, Race Conditions, Deadlock, Auto Layout
