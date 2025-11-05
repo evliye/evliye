@@ -1,5 +1,7 @@
 # Hello, I'm Murod👋
 
+[![Send Email](https://img.shields.io/badge/Send_Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bobkocaman@gmail.com)
+
 ## About me
 
 iOS Developer, delivering high-quality experiences across iPhone, iPad. Skilled in Swift, SwiftUI, and UIKit, with
@@ -10,21 +12,21 @@ centric, and accessible apps.
 
 ### Skills
 
- - Languages: Swift
- - iOS SDKs: SwiftUI, UIKit, Combine, Network, WidgetKit, AVKit, PhotoKit, MapKit, XCTest, Core Animation, Core Bluetooth, CoreData, GCD and more.
- - Third Party SDKs: Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
- - Tools: Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
- - Patterns: MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
- - Testing: Unit and UI Testing.
- - Methodologies: OOP, SOLID, DRY, Design Patterns
- - Others: ARC, Threads, Race Conditions, Deadlock, Auto Layout
+ - **Languages:** Swift
+ - **iOS SDKs:** SwiftUI, UIKit, Combine, Network, WidgetKit, AVKit, PhotoKit, MapKit, XCTest, Core Animation, Core Bluetooth, CoreData, GCD and more.
+ - **Third Party SDKs:** Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
+ - **Tools:** Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
+ - **Patterns:** MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
+ - **Testing:** Unit and UI Testing.
+ - **Methodologies:** OOP, SOLID, DRY, Design Patterns
+ - **Others:** ARC, Threads, Race Conditions, Deadlock, Auto Layout
 
 ## My Projects
 
 Here are a few highlights of my work:
-- [Nexadoku](https://apps.apple.com/uz/app/nexadoku/id6746508041):
+- [Nexadoku](https://apps.apple.com/uz/app/nexadoku/id6746508041)
 
 Nexadoku is a premium futuristic Sudoku game with a luxurious design, smart logic, and an atmosphere that keeps you coming back every day.
-- [Tokcha](https://apps.apple.com/uz/app/tokcha/id6443828999):
+- [Tokcha](https://apps.apple.com/uz/app/tokcha/id6443828999)
 
 Tokcha is an app with ebooks, audiobooks, and podcasts in Uzbek where you can read, listen, save quotes, leave comments, and explore a catalog with recommendations
