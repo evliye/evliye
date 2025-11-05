@@ -22,5 +22,9 @@ centric, and accessible apps.
 ## My Projects
 
 Here are a few highlights of my work:
+- [Nexadoku](https://apps.apple.com/uz/app/nexadoku/id6746508041):
 
-- https://apps.apple.com/uz/app/nexadoku/id6746508041
+Nexadoku is a premium futuristic Sudoku game with a luxurious design, smart logic, and an atmosphere that keeps you coming back every day.
+- [Tokcha](https://apps.apple.com/uz/app/tokcha/id6443828999):
+
+Tokcha is an app with ebooks, audiobooks, and podcasts in Uzbek where you can read, listen, save quotes, leave comments, and explore a catalog with recommendations
