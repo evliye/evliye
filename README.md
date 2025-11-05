@@ -16,8 +16,6 @@ centric, and accessible apps.
  - Tools: Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
  - Patterns: MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
  - Testing: Unit and UI Testing.
- - # Methodologies: OOP, SOLID, DRY, Design Patterns
+ - Methodologies: OOP, SOLID, DRY, Design Patterns
  - Others: ARC, Threads, Race Conditions, Deadlock, Auto Layout
-
-## Education 
 
