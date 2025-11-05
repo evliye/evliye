@@ -19,3 +19,8 @@ centric, and accessible apps.
  - Methodologies: OOP, SOLID, DRY, Design Patterns
  - Others: ARC, Threads, Race Conditions, Deadlock, Auto Layout
 
+## My Projects
+
+Here are a few highlights of my work:
+
+- https://apps.apple.com/uz/app/nexadoku/id6746508041
