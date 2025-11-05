@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, I'm Murod👋
+
+# About me
+
 
 <!--
 **evliye/evliye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
